@@ -1,0 +1,14 @@
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.AssemblyInfoInputs.cache
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.AssemblyInfo.cs
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.csproj.CoreCompileInputs.cache
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.exe
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.deps.json
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.runtimeconfig.json
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.dll
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.pdb
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.dll
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\refint\MediaNotas.App.dll
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.pdb
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.genruntimeconfig.cache
+C:\Users\wcc_devs\Desktop\_senai_diversos\MediaNotas\MediaNotas.App\obj\Debug\net9.0\ref\MediaNotas.App.dll
